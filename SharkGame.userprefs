@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Class/PlayerClass.cs">
+    <Files>
+      <File FileName="Assets/Class/PlayerClass.cs" Line="30" Column="36" />
+      <File FileName="Assets/Class/FishClass.cs" Line="15" Column="19" />
+      <File FileName="Assets/Class/BombClass.cs" Line="17" Column="1" />
+      <File FileName="Assets/Class/GameOverClass.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
